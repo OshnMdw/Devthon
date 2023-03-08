@@ -225,10 +225,7 @@ section {
   .header .navbar {
   }
 
-  .bg-video{
-    box-sizing: border-box;
-  }
-
+ 
   #bg-video{
     max-width: 100%;
     max-height: 100%;
